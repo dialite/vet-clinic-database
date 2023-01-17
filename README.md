@@ -1,32 +1,23 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Vet clinic database ](#-vet-clinic-database-)
+- [📖 \[Vet-clinic-database\] ](#-vet-clinic-database-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
-  - [🚀 Project presentation ](#-project-presentation-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-  - [👥 Author ](#-author-)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -35,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Vet clinic database <a name="about-project"></a>
+# 📖 [Vet-clinic-database] <a name="about-project"></a>
 
-**Vet clinic database**
+**[Vet-clinic-database]** can be briefly described as a relational database to create the initial data structure for a vet clinic. It creates a table to store animals' information, insert some data into it, and query it.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,7 +38,20 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -55,15 +59,17 @@
 
 ### Key Features <a name="key-features"></a>
 
+- **create a table to store animals**
+- **insert some data into it**
+- **and query it.**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo]
-
-## 🚀 Project presentation <a name="presentation"></a>
+- [Live Demo Link link is not available]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,44 +83,31 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- node.js
-- git
-
 ### Setup
 
 Clone this repository to your desired folder:
 
-- Open your terminal
-
-- Navigate to the directory where you want to clone the project.
-
-- Clone the project using by running the following command:
-
-`https://github.com/dialite/crypto-finance-metrics.git`
-
 ### Install
 
-Install this project using the following command:
-
-`npm install`
+Install this project with:
 
 ### Usage
 
 To run the project, execute the following command:
 
-`npm start`
-
 ### Run tests
 
 To run tests, run the following command:
 
-`npm run test`
+### Deployment
+
+You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Raymond Olisa**
 
@@ -127,6 +120,9 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Create relational database tables**
+- [ ] **Insert data content to the tables**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,13 +140,17 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+If you like this project give a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank:
+
+- **Microverse**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
